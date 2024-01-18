@@ -1,12 +1,12 @@
 pyvista[jupyter,trame]>=0.43.1
-pypandoc
-pytest-sphinx
+# pypandoc
+# pytest-sphinx
 Sphinx
-sphinx-autobuild
-sphinx-copybutton
+# sphinx-autobuild
+# sphinx-copybutton
 sphinx-design
-sphinx-gallery
-sphinx-toolbox
-sphinxcontrib-asciinema
-sphinxcontrib-websupport
-typed-ast
+# sphinx-gallery
+# sphinx-toolbox
+# sphinxcontrib-asciinema
+# sphinxcontrib-websupport
+# typed-ast

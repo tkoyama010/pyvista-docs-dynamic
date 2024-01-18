@@ -20,6 +20,3 @@ directive:
     import pyvista as pv
     mesh = pv.Wavelet()
     mesh.plot()
-
-
-.. include:: examples/index.rst
